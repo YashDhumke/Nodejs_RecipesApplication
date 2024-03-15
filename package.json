@@ -18,6 +18,7 @@
     "express-ejs-layouts": "^2.5.1",
     "express-fileupload": "^1.4.3",
     "express-session": "^1.18.0",
+    "memorystore": "^1.6.7",
     "mongodb": "^6.4.0",
     "mongoose": "^8.2.1"
   }
