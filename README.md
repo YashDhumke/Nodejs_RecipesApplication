@@ -21,6 +21,6 @@ Welcome to our Recipe Sharing Site! This platform is built using Node.js and EJS
 - MongoDB: A NoSQL database used to store user data, recipes, and other relevant information.
 - Mongoose: An Object Data Modeling (ODM) library for MongoDB and Node.js, used to interact with the database.
 
-# view demo - https://nodejs-recipesapplication.onrender.com/
+Live demo - https://nodejs-recipesapplication.onrender.com/
 
 ![WhatsApp Image 2024-03-15 at 3 34 09 PM](https://github.com/YashDhumke/Nodejs_RecipesApplication/assets/89930129/2c0d9a03-75ba-405d-a5a3-8174a5f30772)
